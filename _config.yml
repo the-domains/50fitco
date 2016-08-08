@@ -1,4 +1,3 @@
-layout_spectrum: 0.9809842405375093
 typography_spectrum: 0.1872563329525292
 color:
   brandStrength: 0.4930393313989043
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.9809842405375093
 name: 50FIT.co
 title: Always FIT
+description: Never stop
