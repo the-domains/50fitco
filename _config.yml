@@ -14,6 +14,10 @@ layout_spectrum: 0.9809842405375093
 author:
   name: Dennis
 name: 50FIT.co
+navigation:
+  - name: Info
+    id: 623584a8-5420-47c5-95a3-9b1108a2a08c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/77b4114c-95aa-4966-b41d-d1f6d6a717e3.jpg
 title: Always FIT
