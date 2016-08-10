@@ -1,24 +1,37 @@
+name: 50FIT.co
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/77b4114c-95aa-4966-b41d-d1f6d6a717e3.jpg
+layout_spectrum: 0.9809842405375093
 typography_spectrum: 0.1872563329525292
+author:
+  name: Dennis
+navigation:
+  - name: Info
+    id: 623584a8-5420-47c5-95a3-9b1108a2a08c
+    type: content
+title: Always FIT
+description: Never stop
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.4930393313989043
-  lightness: 0.3235238322522491
-  saturation: 0.14437072188593447
-  rhythmicContrast: 0.9611767865717411
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.9809842405375093
-author:
-  name: Dennis
-name: 50FIT.co
-navigation:
-  - name: Info
-    id: 623584a8-5420-47c5-95a3-9b1108a2a08c
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/77b4114c-95aa-4966-b41d-d1f6d6a717e3.jpg
-title: Always FIT
-description: Never stop
+  brandStrength: 0.4930393313989043
+  lightness: 0.3235238322522491
+  saturation: 0.14437072188593447
+  rhythmicContrast: 0.75
+purpose: []
