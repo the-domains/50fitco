@@ -1,4 +1,3 @@
-layout_spectrum: 0.7918335078284144
 typography_spectrum: 0.13395183393731713
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7918335078284144
 analytics:
   google: null
   facebook: null
@@ -26,8 +26,7 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/77b4114c-95aa-4966-b41d-d1f6d6a717e3.jpg
+favicon: null
 title: Always FIT
 description: ''
 purpose: []
