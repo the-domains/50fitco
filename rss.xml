@@ -4,8 +4,15 @@
         <description><![CDATA[Always FIT]]></description>
         <link>http://50fit.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 10:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 10:14:42 GMT</lastBuildDate>
         <atom:link href="http://50fit.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I am 50FIT.co]]></title>
+            <description><![CDATA[<article><h1>I am 50FIT.co</h1><p>Welkom bij 50FIT.co!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8536dfc91ae71dfef0953b124827da8d18a96b67.jpg"></article>]]></description>
+            <link>http://50fit.co/i-am-50fitco/index.html</link>
+            <guid isPermaLink="false">9604d4b6-a2dc-4a53-b906-0866887c0c0a</guid>
+            <pubDate>Tue, 23 Aug 2016 10:14:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I am 50FIT.co]]></title>
             <description><![CDATA[<article><h1>I am 50FIT.co</h1><p>Welkom bij 50FIT.co!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8536dfc91ae71dfef0953b124827da8d18a96b67.jpg"></article>]]></description>
