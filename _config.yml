@@ -29,9 +29,9 @@ cta:
   version: null
   domain: null
 favicon: null
-name: 50FIT.co
 author:
   name: Dennis
+name: 50FIT.co
 opengraph:
   image: null
   type: null
@@ -41,4 +41,4 @@ analytics:
   google: null
   facebook: null
 typography_spectrum: 0.1339518339373171
-layout_spectrum: 0
+layout_spectrum: 0.2387218
