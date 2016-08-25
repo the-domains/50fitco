@@ -1,32 +1,44 @@
-typography_spectrum: 0.13395183393731713
+title: Always FIT
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: ''
 color:
+  saturation: 0.4890421913005412
+  brandStrength: 0.08829610398970544
+  rhythmicContrast: 0.424732712097466
   brandColors:
     - '#225378'
     - '#1695A3'
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-  brandStrength: 0.08829610398970544
   lightness: 0.8473468483425677
-  saturation: 0.48904219130054116
-  rhythmicContrast: 0.424732712097466
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: 50FIT.co
+author:
+  name: Dennis
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.7918335078284144
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-author:
-  name: Dennis
-name: 50FIT.co
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Always FIT
-description: ''
-purpose: []
+typography_spectrum: 0.1339518339373171
+layout_spectrum: 0
