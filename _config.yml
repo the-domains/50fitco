@@ -1,3 +1,16 @@
+layout_spectrum: 0.47624348825775087
+typography_spectrum: 0.7317315586842597
+color:
+  saturation: 0.4890421913005412
+  brandStrength: 0.08829610398970544
+  rhythmicContrast: 0.424732712097466
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  lightness: 0.8473468483425677
 title: Always FIT
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
       format: rss
       number: 10
 description: ''
-color:
-  saturation: 0.4890421913005412
-  brandStrength: 0.08829610398970544
-  rhythmicContrast: 0.424732712097466
-  brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-  lightness: 0.8473468483425677
 cta:
   bucket: null
   version: null
@@ -40,5 +42,3 @@ analytics:
   twitter: null
   google: null
   facebook: null
-typography_spectrum: 0.1339518339373171
-layout_spectrum: 0.5513784
